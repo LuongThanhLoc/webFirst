@@ -682,3 +682,12 @@ p {
   text-decoration: underline;
   color: #000;
 }
+/* @media screen and (min-width: 375px) {
+	.header__background {
+		width: auto;
+		height: auto
+	}
+	.subnav {
+		display: none;
+	}
+} */
