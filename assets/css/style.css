@@ -281,6 +281,7 @@ p {
 .img6 {
   width: 255px;
   height: 353px;
+  border-radius: 6px;
 }
 /* code for banner */
 .banner {
